@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/fluent/48/000000/flutter.png"
+    },
+    {
+        "name": "Dart",
+        "icon": "https://img.icons8.com/color/48/000000/dart.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+   
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    
+
+
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+]
